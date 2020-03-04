@@ -1,0 +1,26 @@
+{
+  "name": "default-readme-generator",
+  "version": "1.0.0",
+  "description": "Global module made with Node.js that creates a default readme with all possible possibilities including title, table, fenced code blocks and syntax highlighting, among others.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunorp/default-readme-generator.git"
+  },
+  "bin": {
+    "createDefaultReadme": "bin/module.js"
+  },
+  "keywords": ["readme", "github", "generator"],
+  "author": "Bruno Rossetto Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunorp/default-readme-generator/issues"
+  },
+  "homepage": "https://github.com/brunorp/default-readme-generator#readme"
+}
